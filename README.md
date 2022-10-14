@@ -2,3 +2,5 @@
 <strong> HTML + CSS <strong>
 Site Responsivo
 <img src="./assets/captura.png"/>
+
+[🔗 Clique aqui para acessar](https://vin1ziux.github.io/about-us/)
